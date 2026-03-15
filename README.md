@@ -25,8 +25,8 @@
 
 ```bash
 pkg update && pkg install python git -y
-git clone https://github.com/YOUR_USERNAME/spamshare.git
-cd spamshare
+git clone git clone https://github.com/mysterioussq/FACEBOOK-AUTO-SHARE
+cd autoshare
 pip install rich requests pytz --break-system-packages
 python autoshare.py
 ```
