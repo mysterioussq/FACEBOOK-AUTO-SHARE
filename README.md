@@ -110,14 +110,12 @@ pip install rich requests pytz --break-system-packages
 - Use at your own risk
 - Author not responsible for misuse
 
-**Philippine Laws:** RA 10175, RA 8484
-
 ---
 
 ## Author
 
 **SIEGFRIED SAMÁ**
-- GitHub: [@mysteriousq](https://github.com/mysteriousq)
+- GitHub: [@mysteriousq](https://github.com/mysterioussq)
 - Facebook: [Siegfried Samá 🥐🥐🥐](https://facebook.com/mysterioussq)
 
 ---
