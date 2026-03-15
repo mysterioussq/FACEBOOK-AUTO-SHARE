@@ -1,6 +1,6 @@
-SPAMSHARE - Facebook Auto Share Tool
+# SPAMSHARE - Facebook Auto Share Tool
 
-Facebook auto-sharing tool for Termux/Linux
+**Facebook auto-sharing tool for Termux/Linux**
 
 ---
 
@@ -87,16 +87,16 @@ FAILED  » 2
 
 ## Troubleshooting
 
-Missing modules:
+**Missing modules:**
 ```bash
 pip install rich requests pytz --break-system-packages
 ```
 
-Invalid cookie:
+**Invalid cookie:**
 - Get fresh cookie from Kiwi Browser
 - Copy full cookie string
 
-Sharing blocked:
+**Sharing blocked:**
 - Increase delay time
 - Reduce amount
 
@@ -104,20 +104,21 @@ Sharing blocked:
 
 ## Legal Notice
 
-⚠️ Educational purposes only
+⚠️ **Educational purposes only**
 - Violates Facebook TOS
 - May result in account ban
 - Use at your own risk
 - Author not responsible for misuse
 
+**Philippine Laws:** RA 10175, RA 8484
 
 ---
 
 ## Author
 
-SIEGFRIED SAMÁ
+**SIEGFRIED SAMÁ**
 - GitHub: [@mysteriousq](https://github.com/mysteriousq)
-- Facebook: [mysterioussq](https://facebook.com/mysterioussq)
+- Facebook: [Siegfried Samá 🥐🥐🥐](https://facebook.com/mysterioussq)
 
 ---
 
@@ -127,81 +128,4 @@ MIT License - See LICENSE file
 
 ---
 
-© 2026 SIEGFRIED SAMÁ
-‎2. Login to Facebook
-‎3. Open Cookie Editor
-‎4. Copy full cookie string
-‎
-‎ 2. Run Tool
-‎
-‎```bash
-‎python autoshare.py
-‎```
-‎
-‎ 3. Enter Details
-‎
-‎```
-‎ENTER COOKIE: [paste cookie]
-‎POST LINK: https://facebook.com/post/123
-‎AMOUNT: 50
-‎DELAY: 1
-‎```
-‎
-‎ 4. Monitor Progress
-‎
-‎```
-‎02:30:15 PM #001 ✓ SHARED ➜ 100485858557
-‎02:30:16 PM #002 ✓ SHARED ➜ 200596969668
-‎...
-‎
-‎SUMMARY
-‎TOTAL   » 50
-‎SUCCESS » 48
-‎FAILED  » 2
-‎```
-‎
-‎---
-‎
-‎ Troubleshooting
-‎
-‎Missing modules:
-‎```bash
-‎pip install rich requests pytz --break-system-packages
-‎```
-‎
-‎Invalid cookie:
-‎- Get fresh cookie from Kiwi Browser
-‎- Copy full cookie string
-‎
-‎Sharing blocked:
-‎- Increase delay time
-‎- Reduce amount
-‎
-‎---
-‎
-‎ Legal Notice
-‎
-‎⚠️ Educational purposes only
-‎- Violates Facebook TOS
-‎- May result in account ban
-‎- Use at your own risk
-‎- Author not responsible for misuse
-‎
-‎---
-‎
-‎ Author
-‎
-‎SIEGFRIED SAMÁ
-‎- GitHub: [@mysteriousq](https://github.com/mysteriouss)
-‎- Facebook: [Siegfried Samá 🥐🥐🥐](https://www.facebook.com/mysterioussq)
-‎
-‎---
-‎
-‎ License
-‎
-‎MIT License - See LICENSE file
-‎
-‎---
-‎
-‎© 2026 SIEGFRIED SAMÁ
-‎
+**© 2026 SIEGFRIED SAMÁ**
