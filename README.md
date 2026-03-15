@@ -25,7 +25,7 @@
 
 ```bash
 pkg update && pkg install python git -y
-git clone git clone https://github.com/mysterioussq/FACEBOOK-AUTO-SHARE
+git clone https://github.com/mysterioussq/autoshare.git
 cd autoshare
 pip install rich requests pytz --break-system-packages
 python autoshare.py
