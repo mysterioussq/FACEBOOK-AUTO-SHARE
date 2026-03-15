@@ -37,7 +37,7 @@ python autoshare.py
 
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git -y
-git clone https://github.com/YOUR_USERNAME/spamshare.git
+https://github.com/mysterioussq/autoshare.git
 cd spamshare
 pip3 install rich requests pytz
 python3 autoshare.py
